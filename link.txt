@@ -1,8 +1,0 @@
-https://stackoverflow.com/questions/56449262/how-to-upload-folders-to-google-colab
-https://www.youtube.com/watch?v=0rygVrmHidg
-https://www.youtube.com/watch?v=tGw-ZACouik
-*******from dive to colab folser*******
-https://www.youtube.com/watch?v=Gvwuyx_F-28
-
-********************data download**************
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
